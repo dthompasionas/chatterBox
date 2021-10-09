@@ -1,15 +1,40 @@
-# Unichat Application
+# ChatterBox 
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+https://github.com/dthompasionas/ChatterBox
 
-## Introduction
+# Description
+This is an instant messenger application using firebase and react-chat-engine.
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+# Table of Contents
+* [License](#license) 
+* [Installation](#installation)
+* [Tests](#tests)
+* [Usage](#usage)
+* [Contribute](#contribute)
+* [Questions](#questions)
 
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
+# License 
+This project is licensed with a MIT license.
 
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-### Bonus - E-mail notifications
+# Installation
+The following necessary dependencies are required to run this app: npm install in terminal 
 
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+# Tests
+The following command is needed to run test: npm start
+
+# Usage
+In order to use this app, Login with FaceBook is under construction.
+
+# Contribute
+contact me below
+
+# Screenshot:
+
+# Questions
+Contact me with any questions here:
+
+*Github: dthompasionas
+
+*email: dthompasionas@gmail.com 
