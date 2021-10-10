@@ -22,7 +22,7 @@ This project is licensed with a MIT license.
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 # Installation
-The following necessary dependencies are required to run this app: npm install in terminal 
+The following necessary dependencies are required to run this app: npm install in terminal. This app uses Firebase and React-chat-engine.
 
 # Tests
 The following command is needed to run test: npm start
