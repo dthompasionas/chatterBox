@@ -2,6 +2,9 @@
 
 https://github.com/dthompasionas/ChatterBox
 
+Deployed:
+https://chatterbox-app.netlify.app/
+
 # Description
 This is an instant messenger application using firebase and react-chat-engine.
 
@@ -31,6 +34,10 @@ In order to use this app, Login with FaceBook is under construction.
 contact me below
 
 # Screenshot:
+
+![](./src/assets/login-page.png)
+
+![](./src/assets/chat-page.png)
 
 # Questions
 Contact me with any questions here:
